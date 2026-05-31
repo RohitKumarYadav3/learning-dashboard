@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { Suspense } from "react";
 import HeroTile from "@/components/dashboard/HeroTile";
 import ActivityTile from "@/components/dashboard/ActivityTile";
